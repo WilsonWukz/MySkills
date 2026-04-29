@@ -4,9 +4,7 @@ Welcome to the MySkills repository. This repository serves as a collection of sp
 
 ---
 
-<div align="center">
-  <img src="skills/skills_overview.png" alt="Overview of the three skills: Paper Visualizer, Humanizer, and Human Writing Assistant" width="100%">
-</div>
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/0221b410-116e-4976-b2ff-7648164b4e59" />
 
 ---
 
