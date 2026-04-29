@@ -1,0 +1,25 @@
+## 1｜分析原段为什么有合成感
+
+- **"Rhinoplasty is one of the most common cosmetic and reconstructive surgeries worldwide"** → Rule 5直接点名，"One of the most..." 是经验库明确列出的禁用模板开头，机械感很强
+- **"a significant gap often exists between patient expectations and actual surgical results, a common cause of postoperative dissatisfaction"** → 两个高阶词组叠加："significant gap" + "postoperative dissatisfaction"，Rule 3词汇降维点名；逗号后面跟"a common cause of..."是机械化文本常见的名词性补充说明结构
+- **"3D imaging systems are expensive and require specialized hardware, while manual photo editing is highly subjective"** → "X, while Y" 是典型并列对比骨架，Rule 9逻辑骨架点名，一句话同时交代两个对立事实，太整齐
+- **"This makes them difficult to apply in small clinical settings"** → Rule 18直接点名，"This makes it X to do Y" 是机器化收束段落的标准功能说明句式，应直接删掉
+
+## 2｜总结之前用户反馈"优秀"/"不佳"的改进思路和原因
+
+首次改写，应用经验库中最相关的规则：
+- Rule 5：删掉"One of the most..."模板开头，直接说事实
+- Rule 3：postoperative dissatisfaction → disappointment after surgery；significant gap → difference
+- Rule 9："X, while Y" 并列对比骨架拆成两句，先说3D系统，再单独说photo editing
+- Rule 11 + Rule 18：最后总结收束句"This makes them difficult to apply"直接删掉
+
+## 3｜如何将优秀经验和之前的避免犯错用于这次的改进
+
+- "Rhinoplasty is one of the most..." → "Rhinoplasty is a very common surgery, for both cosmetic and reconstructive reasons."
+- "a significant gap...postoperative dissatisfaction" → 拆成两句："But what patient expect and what really happen after surgery is often quite different. This lead to disappointment."
+- "X, while Y" → 切断："3D imaging system need expensive equipment and special hardware. Manual photo editing is another option, but it depend a lot on who is doing it."
+- "This makes them difficult to apply in small clinical settings" → 删掉功能说明句，换成平淡事实："Small clinic usually cannot afford either of these."
+
+## 4｜给你的结果
+
+Rhinoplasty is a very common surgery, for both cosmetic and reconstructive reasons. But what patient expect and what really happen after surgery is often quite different. This lead to disappointment after the procedure. For example, 3D imaging system need expensive equipment and special hardware. Manual photo editing is another option, but it depend a lot on who is doing it. Small clinic usually cannot afford either of these.

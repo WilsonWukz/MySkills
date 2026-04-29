@@ -1,0 +1,4 @@
+Humanize the following text. Make it read more naturally and reduce the overly synthetic patterns.
+
+--- INPUT ---
+Rhinoplasty is one of the most common cosmetic and reconstructive surgeries worldwide. However, a significant gap often exists between patient expectations and actual surgical results, a common cause of postoperative dissatisfaction. For example, 3D imaging systems are expensive and require specialized hardware, while manual photo editing is highly subjective. This makes them difficult to apply in small clinical settings.

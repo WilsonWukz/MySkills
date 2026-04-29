@@ -1,6 +1,25 @@
 {
-  "name": "paper-visualizer",
-  "description": "Transform research papers into publication-quality visual schemas",
-  "version": "1.0.0",
-  "author": "WilsonWukz"
+  "skills": [
+    {
+      "name": "paper-visualizer",
+      "description": "Transform research papers into publication-quality visual schemas",
+      "version": "1.0.0",
+      "author": "WilsonWukz",
+      "path": "skills/visual-architect/SKILL.md"
+    },
+    {
+      "name": "humanizer",
+      "description": "Transform synthetic-sounding text into natural human writing. Reduces overly polished structure and mechanical patterns, not just formal vocabulary. Built on a 21-rule experience library from rewrite feedback.",
+      "version": "1.0.0",
+      "author": "WilsonWukz",
+      "path": "skills/humanizer/SKILL.md"
+    },
+    {
+      "name": "human-writing-assistant",
+      "description": "Generate naturally human-sounding academic and technical text from scratch. Applies the same 21-rule natural writing library at the generation stage, so the output avoids overly synthetic patterns from the start.",
+      "version": "1.0.0",
+      "author": "WilsonWukz",
+      "path": "skills/human-writing-assistant/SKILL.md"
+    }
+  ]
 }
